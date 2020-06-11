@@ -13,7 +13,6 @@ public class sy {
 
             if ((i+2)<nums.length){
                if(0==(nums[i]+nums[i+1]+nums[i+2])){
-
                    System.out.print("  ["+nums[i]+", "+nums[i+1]+", "+nums[i+2]+"]");
                    System.out.println("");
                }
